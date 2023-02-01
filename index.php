@@ -1,11 +1,3 @@
-<?php
-
-//index.php
-
-include('db/connection/database_connection.php');
-
-?>
-
 <!DOCTYPE html>
 <html>
   <head>
